@@ -66,4 +66,4 @@ function Veggie() {
     )
 }
 
-export default Veggie
+export default Veggie;
