@@ -63,7 +63,7 @@ function Veggie() {
                 </Splide>
             </Wrapper>
         </div>
-    )
+    );
 }
 
 export default Veggie;

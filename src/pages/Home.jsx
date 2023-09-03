@@ -9,7 +9,7 @@ function Home() {
             <Popular />
             <Veggie />
         </div>
-    )
+    );
 }
 
 export default Home;

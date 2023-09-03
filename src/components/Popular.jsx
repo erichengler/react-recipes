@@ -63,7 +63,7 @@ function Popular() {
                 </Splide>
             </Wrapper>
         </div>
-    )
+    );
 }
 
 export default Popular;
